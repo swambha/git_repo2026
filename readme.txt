@@ -1,0 +1,1 @@
+## This compilation comprises my code utilized for the analysis of both bulk and single-cell RNA-sequencing datasets derived from mouse and human models, codes for wrangling and analyzing datasets combined with clinical information from the TCGA.
